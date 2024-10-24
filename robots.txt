@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://susirapa.github.io/sitemap/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/lpg/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/haO/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/SgR/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/OEi/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/mEo/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/nNd/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/LTC/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/Sbf/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/GVZ/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/hvQ/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/IcY/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/SHO/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/yFa/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/kdj/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/qha/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/KJm/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/LHU/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/RSF/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/DVq/sitemap_index.susirapa
+Sitemap: https://susirapa.github.io/OZa/sitemap_index.susirapa
